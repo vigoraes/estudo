@@ -1,0 +1,16 @@
+git clone <url> = clonar um repositório para seu pc para ter acesso aos arquivos
+git add = adiciona um arquivo ao repositorio local, sem necessariamente envia-lo ao github
+git commit -m *mensagem* =  descrição da ultima atualização do projeto
+git push = envia as atualizações locais para internet, assim atualizando o repositório no github
+git status = retorna os status do repositório
+git pull = realiza o download de mudanças de terceiros pro seu computador
+para resolver o merge conflict, dê um git pull , resolva o código e git add novamente
+git log = histórico de todas commits feitas
+git reset --hard <commit> = reseta até a commit setada
+git reset --hard origin/master = reseta até a origem do repositório, como você recebu ele
+git branch = lista de branchs do repositório
+git branch <name> = cria uma nova branch
+git checkout <namebranch> = muda a HEAD do git para uma nova branch
+git merge <name> <name2> = une a branch name na branch name2
+git fetch = push a ultima versão do origin/master sem combinar com a branch atual
+fork um repositório é basicamente criar uma copia de um repositorio que nao altera o original

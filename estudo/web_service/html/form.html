@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+</head>
+<body>
+	<form>
+		<div>
+			<input type="text" name="name" placeholder="User">
+			<input type="password" name="password" placeholder="Password">
+			<button>Submit</button>
+		</div>
+		<div>
+			Cor favorita?
+			<input type="radio" name="cor" value="red">Vermelho
+			<input type="radio" name="cor" value="green">Verde
+			<input type="radio" name="cor" value="blue">Azul
+			<input type="radio" name="cor" value="other">Outra
+		</div>
+		<div>
+			<input name="country" list="countries" placeholder="Country">
+			<datalist id="countries">
+				<option value="Argentina"></option>
+				<option value="Chile"></option>
+				<option value="Bolivia"></option>
+				<option value="Brasil"></option>
+				<option value="Colombia"></option>
+				<option value="Equador"></option>
+			</datalist>
+		</div>
+	</form>
+</body>
+</html>

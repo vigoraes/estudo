@@ -1,0 +1,15 @@
+Fed Erer Noipmahc,3,Nada Lna Uganha,2
+Nada Lna Uganha,2,Volle Ian Uxao,3
+Fed Erer Noipmahc,3,Kata Abol Ai,0
+Nada Lna Uganha,3,Jogga Tud Unarrede,1
+Kata Abol Ai,3,Jogga Tud Unarrede,2
+Nada Lna Uganha,3,Kata Abol Ai,1
+Kata Abol Ai,0,Volle Ian Uxao,3
+Fed Erer Noipmahc,3,Saacca Muui To,0
+Nada Lna Uganha,3,Saacca Muui To,0
+Kata Abol Ai,2,Saacca Muui To,3
+Jogga Tud Unarrede,2,Volle Ian Uxao,3
+Fed Erer Noipmahc,3,Volle Ian Uxao,1
+Jogga Tud Unarrede,3,Saacca Muui To,2
+Saacca Muui To,2,Volle Ian Uxao,3
+Fed Erer Noipmahc,2,Jogga Tud Unarrede,3

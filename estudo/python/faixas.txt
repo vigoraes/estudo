@@ -1,0 +1,10 @@
+Faixa 1: 2
+Faixa 2: 3
+Faixa 3: 2
+Faixa 4: 3
+Faixa 5: 6
+Faixa 6: 8
+Faixa 7: 3
+Faixa 8: 4
+Faixa 9: 4
+Faixa 10: 15
